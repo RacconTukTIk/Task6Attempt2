@@ -1,0 +1,14 @@
+C:\Task6\Task6Attempt2\CharpTask6\CharpTask6\bin\Debug\net9.0\CharpTask6.exe
+C:\Task6\Task6Attempt2\CharpTask6\CharpTask6\bin\Debug\net9.0\CharpTask6.deps.json
+C:\Task6\Task6Attempt2\CharpTask6\CharpTask6\bin\Debug\net9.0\CharpTask6.runtimeconfig.json
+C:\Task6\Task6Attempt2\CharpTask6\CharpTask6\bin\Debug\net9.0\CharpTask6.dll
+C:\Task6\Task6Attempt2\CharpTask6\CharpTask6\bin\Debug\net9.0\CharpTask6.pdb
+C:\Task6\Task6Attempt2\CharpTask6\CharpTask6\obj\Debug\net9.0\CharpTask6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Task6\Task6Attempt2\CharpTask6\CharpTask6\obj\Debug\net9.0\CharpTask6.AssemblyInfoInputs.cache
+C:\Task6\Task6Attempt2\CharpTask6\CharpTask6\obj\Debug\net9.0\CharpTask6.AssemblyInfo.cs
+C:\Task6\Task6Attempt2\CharpTask6\CharpTask6\obj\Debug\net9.0\CharpTask6.csproj.CoreCompileInputs.cache
+C:\Task6\Task6Attempt2\CharpTask6\CharpTask6\obj\Debug\net9.0\CharpTask6.dll
+C:\Task6\Task6Attempt2\CharpTask6\CharpTask6\obj\Debug\net9.0\refint\CharpTask6.dll
+C:\Task6\Task6Attempt2\CharpTask6\CharpTask6\obj\Debug\net9.0\CharpTask6.pdb
+C:\Task6\Task6Attempt2\CharpTask6\CharpTask6\obj\Debug\net9.0\CharpTask6.genruntimeconfig.cache
+C:\Task6\Task6Attempt2\CharpTask6\CharpTask6\obj\Debug\net9.0\ref\CharpTask6.dll
