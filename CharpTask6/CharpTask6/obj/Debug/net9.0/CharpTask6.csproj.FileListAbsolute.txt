@@ -12,3 +12,4 @@ C:\Task6\Task6Attempt2\CharpTask6\CharpTask6\obj\Debug\net9.0\refint\CharpTask6.
 C:\Task6\Task6Attempt2\CharpTask6\CharpTask6\obj\Debug\net9.0\CharpTask6.pdb
 C:\Task6\Task6Attempt2\CharpTask6\CharpTask6\obj\Debug\net9.0\CharpTask6.genruntimeconfig.cache
 C:\Task6\Task6Attempt2\CharpTask6\CharpTask6\obj\Debug\net9.0\ref\CharpTask6.dll
+C:\Task6\Task6Attempt2\CharpTask6\CharpTask6\obj\Debug\net9.0\CharpTask6.sourcelink.json
